@@ -1,2 +1,2 @@
 # Machine-Learning
-Tackling different problems using machine learning models.
+Tackling different problems using machine learning.
